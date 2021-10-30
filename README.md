@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-  💼 Tecnologias Que Estou Estudando: <strong>React,react native,Node JS</strong>
+  💼 Tecnologias Que Estou Estudando: <strong>React,React native,Node JS</strong>
 </p>
 
 <p align="left">
