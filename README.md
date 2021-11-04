@@ -1,17 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Ola Meu Nome Geovani França Sou Apaixonado Um apaixonado Por Tecnologia  <strong>front end</strong>.<br>
+  Ola Meu Nome é Geovani França Sou Apaixonado  Por Tecnologia  <strong>front end</strong>.<br>
   Atualmente Estou Cursando A Faculdade de analise e desenvolvimento de sistemas E 
   Cursando Os  Curso B7Web e Curso CodeClub De Rodolfo Mori.
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML CSS GIT JAVASCRIPT.</strong>
+ Tecnologias: <strong>HTML CSS GIT JAVASCRIPT.</strong>
 </p>
 
 <p align="left"> 
-  💼 Tecnologias Que Estou Estudando: <strong>React,React native,Node JS</strong>
+  Tecnologias Que Estou Estudando: <strong>React,React native,Node JS</strong>
 </p>
 
 <p align="left">
